@@ -26,24 +26,15 @@
 <div id="proyectos">
 <h2 align="center">Algunos proyectos👨🏻‍💻</h2>
 
-<div align="center">
-    <table border="0">
-    <tr>
-        <td align="center" style="padding: 0 10px;">
-            <a href="https://github.com/alonzo0303/Prueba.git" target="blank">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@alonzo0303" />
-            </a>
-        </td>
-        
-        <td align="center" style="padding: 0 10px;">
-            <a href="https://github.com/alonzo0303/PerfilWeb.git" target="blank">
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@alonzo0303" />
-            </a>
-        </td>
-    </tr>
-    </table>
+<p align="center">
+    <a href="https://github.com/alonzo0303/Prueba.git" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@alonzo0303" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/alonzo0303/PerfilWeb.git" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@alonzo0303" />
+    </a>
+</p>
 </div>
-  </div>
 <br>
 <br><br>
 <br>
