@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@gustavoalonzomontesaltamir6763" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@gustavoalonzomontesaltamirano"  /></a>
-<a href="https://www.tiktok.com/@alxnzx031" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
