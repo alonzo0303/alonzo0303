@@ -7,7 +7,7 @@
 <h2>Sobre mi 😃</h2>
 <p align="left">
 🎓 Estudiante de la carrera de Ingenieria de Sistema e Informatica.
-❗ Universidad Tecnologica del Perú - 7mo ciclo 
+❗ Universidad Tecnologica del Perú - 9no ciclo 
   
 📝 roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
